@@ -2,7 +2,9 @@
 
 A place to build a resource examining dEnergy project models and leading implementations.
 
-The current electric system depends on long distance transmission from large generation plants. Customers on the end pay for generation, distribution, and maintenance of the grid in order to 
+**Motivation**
+
+The current electric system depends on long distance transmission from large generation plants. Customers on the end pay for generation, distribution, and maintenance of the grid. 
 
 **dEnergy Consortiums**
 
