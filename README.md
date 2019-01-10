@@ -4,13 +4,13 @@ A place to build a resource examining dEnergy project models and leading impleme
 
 The current electric system depends on long distance transmission from large generation plants. Customers on the end pay for generation, distribution, and maintenance of the grid in order to 
 
-_dEnergy Consortiums_
+**dEnergy Consortiums
 
 Energy Web Foundation
 
 Enerchain
 
-_dEnergy Models_
+**dEnergy Models
 
 Peer-to-peer Transactions
 
