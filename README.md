@@ -23,3 +23,7 @@ Sustainability Attribution
 Electric Vehicles
 
 Others
+
+**Hardware**
+
+**Progress**
